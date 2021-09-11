@@ -1,0 +1,230 @@
+[
+    {
+      "ethnicityCode": "01",
+      "name": "Kinh"
+    },
+    {
+      "ethnicityCode": "02",
+      "name": "Tày"
+    },
+    {
+      "ethnicityCode": "03",
+      "name": "Thái"
+    },
+    {
+      "ethnicityCode": "04",
+      "name": "Mường"
+    },
+    {
+      "ethnicityCode": "05",
+      "name": "Khmer"
+    },
+    {
+      "ethnicityCode": "06",
+      "name": "Hoa"
+    },
+    {
+      "ethnicityCode": "07",
+      "name": "Nùng"
+    },
+    {
+      "ethnicityCode": "08",
+      "name": "Mông"
+    },
+    {
+      "ethnicityCode": "09",
+      "name": "Dao"
+    },
+    {
+      "ethnicityCode": "10",
+      "name": "Gia Rai"
+    },
+    {
+      "ethnicityCode": "11",
+      "name": "Ê  Đê"
+    },
+    {
+      "ethnicityCode": "12",
+      "name": "Ba Na"
+    },
+    {
+      "ethnicityCode": "13",
+      "name": "Sán Chay"
+    },
+    {
+      "ethnicityCode": "14",
+      "name": "Chăm"
+    },
+    {
+      "ethnicityCode": "15",
+      "name": "Cơ Ho"
+    },
+    {
+      "ethnicityCode": "16",
+      "name": "Xơ Đăng"
+    },
+    {
+      "ethnicityCode": "17",
+      "name": "Sán Dìu"
+    },
+    {
+      "ethnicityCode": "18",
+      "name": "Hrê"
+    },
+    {
+      "ethnicityCode": "19",
+      "name": "RaGlay"
+    },
+    {
+      "ethnicityCode": "20",
+      "name": "Mnông"
+    },
+    {
+      "ethnicityCode": "21",
+      "name": "Thổ (4)"
+    },
+    {
+      "ethnicityCode": "22",
+      "name": "Xtiêng"
+    },
+    {
+      "ethnicityCode": "23",
+      "name": "Khơ mú"
+    },
+    {
+      "ethnicityCode": "24",
+      "name": "Bru Vân Kiều"
+    },
+    {
+      "ethnicityCode": "25",
+      "name": "Cơ Tu"
+    },
+    {
+      "ethnicityCode": "26",
+      "name": "Giáy"
+    },
+    {
+      "ethnicityCode": "27",
+      "name": "Tà Ôi"
+    },
+    {
+      "ethnicityCode": "28",
+      "name": "Mạ"
+    },
+    {
+      "ethnicityCode": "29",
+      "name": "Giẻ-Triêng"
+    },
+    {
+      "ethnicityCode": "30",
+      "name": "Co"
+    },
+    {
+      "ethnicityCode": "31",
+      "name": "Chơ Ro"
+    },
+    {
+      "ethnicityCode": "32",
+      "name": "Xinh Mun"
+    },
+    {
+      "ethnicityCode": "33",
+      "name": "Hà Nhì"
+    },
+    {
+      "ethnicityCode": "34",
+      "name": "Chu Ru"
+    },
+    {
+      "ethnicityCode": "35",
+      "name": "Lào"
+    },
+    {
+      "ethnicityCode": "36",
+      "name": "La Chí"
+    },
+    {
+      "ethnicityCode": "37",
+      "name": "Kháng"
+    },
+    {
+      "ethnicityCode": "38",
+      "name": "Phù Lá"
+    },
+    {
+      "ethnicityCode": "39",
+      "name": "La Hủ"
+    },
+    {
+      "ethnicityCode": "40",
+      "name": "La Ha"
+    },
+    {
+      "ethnicityCode": "41",
+      "name": "Pà Thẻn"
+    },
+    {
+      "ethnicityCode": "42",
+      "name": "Lự"
+    },
+    {
+      "ethnicityCode": "43",
+      "name": "Ngái"
+    },
+    {
+      "ethnicityCode": "44",
+      "name": "Chứt"
+    },
+    {
+      "ethnicityCode": "45",
+      "name": "Lô Lô"
+    },
+    {
+      "ethnicityCode": "46",
+      "name": "Mảng"
+    },
+    {
+      "ethnicityCode": "47",
+      "name": "Cơ Lao"
+    },
+    {
+      "ethnicityCode": "48",
+      "name": "Bố Y"
+    },
+    {
+      "ethnicityCode": "49",
+      "name": "Cống"
+    },
+    {
+      "ethnicityCode": "50",
+      "name": "Si La"
+    },
+    {
+      "ethnicityCode": "51",
+      "name": "Pu Péo"
+    },
+    {
+      "ethnicityCode": "52",
+      "name": "Rơ Măm"
+    },
+    {
+      "ethnicityCode": "53",
+      "name": "Brâu"
+    },
+    {
+      "ethnicityCode": "54",
+      "name": "Ơ Đu"
+    },
+    {
+      "ethnicityCode": "55",
+      "name": "Người nước ngoài"
+    },
+    {
+      "ethnicityCode": "99",
+      "name": "Không rõ"
+    },
+    {
+      "ethnicityCode": "KXD",
+      "name": "Không xác định"
+    }
+  ]
